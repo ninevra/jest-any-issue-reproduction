@@ -1,0 +1,16 @@
+{
+  "name": "jest-any-issue-reproduction",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Reproduces possible bugs in Jest's expect.any()",
+  "main": "index.test.js",
+  "type": "module",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "ninevra",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^26.0.1"
+  }
+}
